@@ -1,4 +1,4 @@
-## IntelliJ Firebase Firestore EULA
+## Firebase Firestore Plugin EULA
 
 "Developer" means Anton Shuvaev.
 
