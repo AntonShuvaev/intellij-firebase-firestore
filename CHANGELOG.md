@@ -1,5 +1,12 @@
 Change Log
 ----------
+## 1.0.1
+### Changed
+- Now displays a shorter path in field with Document Reference type
+### Fixed
+- [#2](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/2) Fixed an issue where opening a collection would fail if any document contained a field with a null value
+- [#2](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/2) Fixed an issue that prevented submitting changes when a document contained a field of the Document Reference type
+
 ## 1.0.0
 ### Added
 - Connect to cloud or emulator Firestore
