@@ -1,5 +1,11 @@
 Change Log
 ----------
+## 1.0.2
+### Added
+- [#6](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/6) Support Application Default Credentials
+### Changed
+- Updated icons
+
 ## 1.0.1
 ### Changed
 - Now displays a shorter path in field with Document Reference type
