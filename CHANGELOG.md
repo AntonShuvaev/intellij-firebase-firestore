@@ -1,5 +1,9 @@
 Change Log
 ----------
+## 1.0.4
+### Added
+- [#5](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/5) Added support for "Order by"
+
 ## 1.0.3
 ### Added
 - [#7](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/7) Added support for using the Firestore emulator URL alongside the Emulator UI URL
