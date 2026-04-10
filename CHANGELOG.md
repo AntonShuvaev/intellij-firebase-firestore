@@ -1,5 +1,9 @@
 Change Log
 ----------
+## 1.0.5
+### Fixed
+- [#12](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/12) Fixed NoSuchElementException when connecting to a project not registered as a Firebase project
+
 ## 1.0.4
 ### Added
 - [#5](https://github.com/AntonShuvaev/intellij-firebase-firestore/issues/5) Added support for "Order by"
